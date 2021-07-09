@@ -16,7 +16,7 @@ function App() {
           if (authUser) {
               // user is logged in
               dispatch(login({
-                  uid: authUser.id,
+                  uid: authUser.uid,
                   photo: authUser.photoURL,
                   email: authUser.email,
                   displayName: authUser.displayName
