@@ -2,6 +2,8 @@
 
 This is an I-message clone, which i created just for fun. It has features such as Google Sign authentication, Create groups for chats, Recent chats.
 
+Link of the deployed project https://message-ac383.firebaseapp.com/
+
 # screen-shots
 
 ![front page](https://user-images.githubusercontent.com/19743451/125162588-5a419400-e1a6-11eb-96db-e248145d66e6.PNG)
