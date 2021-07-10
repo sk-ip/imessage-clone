@@ -22,7 +22,7 @@ If you would like to use this application.
 1. Clone this application
 2. run `npm i`
 3. Register and app under firebase
-4. Copy thr firebase Config in a file `firebase.js`
+4. Copy the firebase Config in a file `firebase.js`
 5. run `npm start`
 
 Now you can also add more features to it
